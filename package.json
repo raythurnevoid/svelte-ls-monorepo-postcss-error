@@ -1,0 +1,13 @@
+{
+	"name": "test-root",
+	"version": "0.0.1",
+	"private": true,
+	"workspaces": [
+		"./test-workspace"
+	],
+	"scripts": {
+	},
+	"devDependencies": {
+	},
+	"type": "module"
+}
